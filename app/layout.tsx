@@ -11,8 +11,7 @@ const inter = Inter({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
   title: "AutomateVault | Premium Automation Templates",
-  description: "Premium $5 automation templates across 12+ industries. Find your perfect workflow — powered by AI.",
-    generator: 'v0.dev'
+  description: "Premium $5 automation templates across 12+ industries. Find your perfect workflow — powered by smart recommendations."
 }
 
 export default function RootLayout({
